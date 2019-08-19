@@ -1,0 +1,37 @@
+﻿# specialsYYYY.txt - day types in [] followed by dates: YYYY-MM-DD, MM-DD or DD
+#  - blank lines ignored. Only exceptional holidays need appear in congé section.
+
+[Accueil des élèves]
+2019-08-30
+
+[Journée pédagogique]
+2019-08-27
+28
+29
+09-20
+10-25
+11-21
+22
+12-06
+2020-01-24
+02-28
+03-27
+05-15
+06-25
+26
+29
+30
+
+[Jour 0 - Examens]
+2019-10-28
+29
+2020-01-31
+02-03
+06-18
+19
+22
+23
+
+[Congé]
+2019-12-23
+24

@@ -1,0 +1,12 @@
+Horaire de classe     1er cycle	Jour 1	Jour 2	Jour 3	Jour 4	Jour 5	Jour 6	Horaire de classe   2e cycle
+8 h 15 – 9 h 15							8 h 30 – 9 h 30
+9 h 20 – 10 h 20	301-306	4e sec	""	207-212	1re sec	307-313	9 h 35 – 10 h 35
+					5e sec		
+10 h 45 – 11 h 45	"1re sec/207-212"	201-206	5e sec		301-306	4e sec	11 h 00 – 12 h 00
+		307-313					
+"11 h 45 – 12 h 45 Dîner 1er  cycle"							12 h 05 – 13 h 05
+12 h 45 – 13 h 45							"13 h 05 – 14 h 05 Dîner 2e  cycle"
+13 h 50 – 14 h 50	201-206	"1re sec/207-212"	201-206	1re sec	207-212	201-206	14 h 05 – 15 h 05
+	307-313		4e sec	301-306			
+14 h 55 – 15 h 55	4e et 5e sec.	301-306	207-212	4e et 5e sec.	201-206	1re sec	15 h 10 – 16 h 10
+			307-313		307-313	301-306	
